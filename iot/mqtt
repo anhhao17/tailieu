@@ -1,0 +1,7 @@
+băng thông thấp, độ tin cậy cao và có thể sử dụng ngay cả khi hệ thống mạng không ổn định, tốn rất ít byte cho việc kết nối với server và connection có thể giữ trạng thái open xuyên suốt, có thể kết nối nhiều thiết bị (MQTT client) thông qua một MQTT server (broker). Bởi vì giao thức này sử dụng băng thông thấp trong môi trường có độ trễ cao nên nó là một giao thức lý tưởng cho các ứng dụng IoT.
+
+http://www.hivemq.com/mqtt-essentials/ 
+
+https://github.com/mqtt/mqtt.github.io/wiki 
+
+mqtt.org
